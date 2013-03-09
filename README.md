@@ -2,3 +2,5 @@
 =========
 
 3LiD Utilities API ComputerCraft
+
+License: GPLv3
